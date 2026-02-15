@@ -1,0 +1,10 @@
+# Site settings
+title: ""
+description: Privacy Policy for OpenRoads Rally App
+
+# GitHub Pages settings
+show_downloads: false
+
+# Theme settings (if using a theme that supports these)
+header:
+  show_title: false
